@@ -1,0 +1,26 @@
+{
+  "marca": "TX Pay",
+  "razao_social": "PAGAMENTOS E TECNOLOGIA TX LTDA - EPP",
+  "cnpj": "58.302.216/0001-91",
+  "endereco": "Rua Washington Luis 59 Lote 10B Quad, Centro, Nossa Senhora das Graças - PR, CEP 86680-000",
+  "email": "gustavohom.comercial@gmail.com",
+  "telefone": "+55 (63) 98128-7218",
+  "dominio": "https://tecnologiatxltda.vercel.app",
+  "descricao": "Infoprodutos, produtos físicos e atuação como correspondente de instituições financeiras. Conheça a TX e entre em contato para consultar produtos, serviços disponíveis e condições de atendimento.",
+  "servicos": [
+    {
+      "titulo": "Infoprodutos",
+      "descricao": "Comercialização de produtos digitais. Consulte os conteúdos disponíveis, os formatos e as condições de acesso antes de comprar."
+    },
+    {
+      "titulo": "Produtos físicos",
+      "descricao": "Venda de produtos físicos. Entre em contato para conhecer as opções, verificar disponibilidade e consultar as condições de entrega."
+    },
+    {
+      "titulo": "Correspondentes de instituições financeiras",
+      "descricao": "Atuação como correspondente de instituições financeiras. Entre em contato para conhecer os serviços disponíveis, as instituições envolvidas e as condições aplicáveis ao atendimento."
+    }
+  ],
+  "meta_verification": "",
+  "dados_confirmados": true
+}
