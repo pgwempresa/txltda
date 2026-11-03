@@ -51,3 +51,7 @@ Referências (Serasa e páginas oficiais da Meta consultados pelo navegador na r
 Leia `VERIFICACAO-META.md` para os critérios consultados e as pendências externas. O site inclui central de atendimento, missão/visão/valores, logo em `public/logo.svg` e cinco páginas de políticas. Não possui Instagram.
 
 Verificação local: `python3 scripts/check.py`. Após publicar: `python3 scripts/check.py --live`. Políticas de compra devem acompanhar as ofertas reais; não há prazos ou preços de produtos inventados.
+
+## Botão de login
+
+O botão Login está no cabeçalho, inclusive no menu móvel. Configure `login_url` em `empresa.json` com o endereço HTTPS real da área do cliente e gere novamente. Sem esse endereço, o botão abre uma página informando que o acesso ainda não está disponível, com um link de atendimento. Este projeto não implementa autenticação nem coleta senhas.
